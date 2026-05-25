@@ -1,0 +1,10 @@
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+rdkit
+deepchem
+numpy
+pandas
+matplotlib
+pillow
